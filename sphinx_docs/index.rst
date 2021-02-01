@@ -1,4 +1,4 @@
-Welcome to conditional_independence's documentation!
+Welcome to template_package's documentation!
 ====================================================
 
 .. toctree::
