@@ -10,7 +10,7 @@ The below section shows what you'd actually put in the README.
 
 # Main README
 [![Build Status](https://travis-ci.com/csquires/template_package.svg?branch=main)](https://travis-ci.com/csquires/template_package)
-[![codecov](https://codecov.io/gh/uhlerlab/conditional_independence/branch/main/graph/badge.svg?token=TC78IEMINI)](https://codecov.io/gh/uhlerlab/conditional_independence)
+[![codecov](https://codecov.io/gh/csquires/template_package/branch/main/graph/badge.svg?token=RULW2CT9KS)](https://codecov.io/gh/csquires/template_package)
 
 `template_package` is a Python package for ...
 

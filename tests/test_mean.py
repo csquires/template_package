@@ -7,7 +7,7 @@ import numpy as np
 class TestPartialCorrelation(TestCase):
     def test_mean(self):
         samples = np.array([1, 2, 3])
-        m = np.mean(samples)
+        m = mean(samples)
         self.assertEqual(m, 2)
 
 
