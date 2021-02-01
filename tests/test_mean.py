@@ -1,6 +1,6 @@
 from unittest import TestCase
 import unittest
-from template import mean
+from template_package import mean
 import numpy as np
 
 

@@ -9,15 +9,15 @@ I also use [Travis](https://travis-ci.com) for continuous integration.
 The below section shows what you'd actually put in the README.
 
 # Main README
-[![Build Status](https://travis-ci.com/uhlerlab/conditional_independence.svg?branch=main)](https://travis-ci.com/uhlerlab/conditional_independence)
+[![Build Status](https://travis-ci.com/csquires/template_package.svg?branch=main)](https://travis-ci.com/csquires/template_package)
 [![codecov](https://codecov.io/gh/uhlerlab/conditional_independence/branch/main/graph/badge.svg?token=TC78IEMINI)](https://codecov.io/gh/uhlerlab/conditional_independence)
 
-`template` is a Python package for ...
+`template_package` is a Python package for ...
 
 ### Install
-Install the latest version of `template`:
+Install the latest version of `template_package`:
 ```
-$ pip3 install template
+$ pip3 install template_package
 ```
 
 ### Documentation
@@ -27,7 +27,7 @@ Documentation is available at https://template.readthedocs.io/en/latest/
 ### Simple Example
 
 ```
->>> from template import mean
+>>> from template_package import mean
 >>> import numpy as np
 >>> x = np.array([1,2,3])
 >>> mean(x)
